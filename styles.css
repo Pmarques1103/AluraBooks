@@ -1,0 +1,12 @@
+@import url("styless/header.css");
+
+:root{
+    --cor-de-fundo: #ebebee;
+    --branco: #FFFFFF;
+    
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
