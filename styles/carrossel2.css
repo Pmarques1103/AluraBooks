@@ -25,6 +25,7 @@ width: 100%;
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
+    font-family: poppins;
 }
 
 .card2__botões {
@@ -47,13 +48,12 @@ width: 100%;
 
 .descrição2__titulo {
     color: var(--laranja);
-    font-family: var(--fonte-principal);
+    font-family: poppins;
     font-weight: 700;
 }
 
 .descrição2__titulo-livro {
     color: var(--azul);
-    font-family: var(--fonte-principal);
     font-size: 18px;
     font-weight: 700;
     margin: 0.5em 0;
@@ -61,7 +61,7 @@ width: 100%;
 
 .descrição2__texto {
     font-size: 14px;
-    font-family: var(--fonte-principal);
+   
 }
 
 .botões2__item {
@@ -70,7 +70,7 @@ width: 100%;
 
 .botões2__ancora {
     background-color: var(--laranja);
-    padding: 1em 2.2em;
+    padding: 1em 2em;
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
